@@ -68,7 +68,7 @@
   <a href="https://www.linkedin.com/in/saurabh-bisht-313301316/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="astra277353@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
