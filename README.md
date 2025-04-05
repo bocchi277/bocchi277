@@ -11,6 +11,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+I'm+Bocchi+🎸;Web+Dev+%7C+Anime+Lover+%7C+Dream+Big!)
 
 ## 📊 GitHub Stats:
 ![Bocchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bocchi277&show_icons=true&theme=tokyonight)
