@@ -58,7 +58,7 @@
 |--------|-------------|
 | 🎓 Portfolio Website *(soon)* | A 3D interactive room to explore Bocchi’s dev skills |
 |[Book A Star](https://bookastar.netlify.app/) | On development |
-| 💊 [Stack Overflow Data Analyzer](https://data-analyzerrr.netlify.app/) | An app to suggest medicines based on composition |
+|[Stack Overflow Data Analyzer](https://data-analyzerrr.netlify.app/) | An app to suggest medicines based on composition |
 |[Medsphere](https://medsphere.netlify.app/) | Hackathon Project |
 |[ACM Website]() | Hackathon Project |
 
