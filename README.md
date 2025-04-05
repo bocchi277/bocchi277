@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Bocchi
 
-🌱 Web Developer | 🎨 UI/UX Learner | 💻 Code Lover
+🌱 Web Developer | 🎨 UI/UX Learner 
 
 - 🔭 I’m currently working on: [My Medicine Analyzer Project](https://data-analyzerrr.netlify.app/)
 - 📫 How to reach me: astra277353@gmail.com
