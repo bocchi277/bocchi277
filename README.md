@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey+I'm+Bocchi+!!;A+quiet+web+dev+on+a+big+journey!;I+love+anime%2C+code+and+design!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey+I'm+Bocchi+!!;A+quiet+web+dev+!;I+love+anime%2C+code+and+design!" alt="Typing SVG" />
 </p>
 
 <p align="center">
