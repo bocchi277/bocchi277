@@ -57,7 +57,6 @@
 | Project | Description |
 |--------|-------------|
 | 💊 [Medicine Analyzer](https://data-analyzerrr.netlify.app/) | An app to suggest medicines based on composition |
-| 📊 LDU Matrix Calculator *(soon)* | Visualize matrix factorization with step-by-step logic |
 | 🎓 Portfolio Website *(soon)* | A 3D interactive room to explore Bocchi’s dev skills |
 
 ---
