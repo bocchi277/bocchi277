@@ -17,6 +17,5 @@
 
 ## 🏆 Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=bocchi277&theme=tokyonight)
-## 📂 Featured Projects
-- 💊 [Medicine Analyzer Website](https://data-analyzerrr.netlify.app/)
-- 📊 [LDU Factorization Visualizer](https://ldu-solver.netlify.app/) *(Coming Soon)*  
+![visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
