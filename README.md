@@ -17,5 +17,5 @@
 
 ## 🏆 Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=bocchi277&theme=tokyonight)
-![visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![visitors](https://komarev.com/ghpvc/?username=bocchi277&color=blue)
 
