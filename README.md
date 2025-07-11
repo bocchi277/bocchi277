@@ -14,10 +14,9 @@
 ---
 
 ## 🌟 About Me
-- 🎓 1st-year student at **Sitare University**
+- 🎓 2nd-year student at **Sitare University**
 - 💻 Passionate about **Web Development** and **UI/UX Design**
 - 🧠 Currently learning **Flask**, **MongoDB**, and **Three.js**
-- 💊 Working on a [Medicine Analyzer Project]
 - ✨ Solitude | Quiet soul |
 
 ---
@@ -58,7 +57,7 @@
 |--------|-------------|
 | 🎓 Portfolio Website *(soon)* | A 3D interactive room to explore Bocchi’s dev skills |
 |[Book A Star](https://bookastar.netlify.app/) | On development |
-|[Stack Overflow Data Analyzer](https://data-analyzerrr.netlify.app/) | An app to suggest medicines based on composition |
+|[Stack Overflow Data Analyzer](https://data-analyzerrr.netlify.app/) | A Website to analyze the data available on stack overflow |
 |[Medsphere](https://medsphere.netlify.app/) | Hackathon Project |
 |[ACM Website]() | Hackathon Project |
 
