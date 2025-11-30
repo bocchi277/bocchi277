@@ -59,7 +59,8 @@
 |[Book A Star](https://bookastar.netlify.app/) | On development |
 |[Stack Overflow Data Analyzer](https://data-analyzerrr.netlify.app/) | A Website to analyze the data available on stack overflow |
 |[Medsphere](https://medsphere.netlify.app/) | Hackathon Project |
-|[ACM Website]() | Hackathon Project |
+|[ACM Website](https://acm-277.netlify.app/) | Hackathon Project |
+|[Medicine Analyzer](https://medicineanalyzer.netlify.app/) | Collage Project |
 
 ---
 
