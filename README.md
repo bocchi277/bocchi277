@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bocchit&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=quiet%20dev%20%E2%80%A2%20anime%20enjoyer%20%E2%80%A2%20ui%20crafts%20%E2%80%A2%20solitude&descAlignY=58&descSize=16&descColor=a29bfe" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bocchi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=quiet%20dev%20%E2%80%A2%20ui%20crafts%20%E2%80%A2%20solitude&descAlignY=58&descSize=16&descColor=a29bfe" />
 
 <br/>
 
@@ -31,8 +31,7 @@ const bocchi = {
   year     : "2nd Year @ Sitare University",
   focus    : ["Web Development", "UI/UX Design"],
   learning : ["Flask", "MongoDB", "Three.js"],
-  vibe     : "quiet soul • solitude • lo-fi coder",
-  fun_fact : "I relate to Bocchi more than I'd like to admit 🎸"
+  vibe     : "quiet soul • solitude"
 };
 ```
 
