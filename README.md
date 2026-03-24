@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saurabh%20%22Bocchi%22%20Bisht&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=quiet%20dev%20%E2%80%A2%20anime%20enjoyer%20%E2%80%A2%20ui%20crafts%20%E2%80%A2%20solitude&descAlignY=58&descSize=16&descColor=a29bfe" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bocchit&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=quiet%20dev%20%E2%80%A2%20anime%20enjoyer%20%E2%80%A2%20ui%20crafts%20%E2%80%A2%20solitude&descAlignY=58&descSize=16&descColor=a29bfe" />
 
 <br/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A29BFE&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Bocchi+%F0%9F%8E%B8;A+quiet+web+dev+from+Sitare+Uni;I+build+things+no+one+asked+for;Anime+%7C+Code+%7C+Design+%7C+Solitude" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A29BFE&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Bocchi+%F0%9F%8E%B8;A+quiet+web+dev;I+build+things+no+one+asked+for;Anime+%7C+Code+%7C+Design+%7C+Solitude" alt="Typing SVG" />
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 ---
 
-## `~ whoami`
+## `About`
 
 ```ts
 const bocchi = {
@@ -38,7 +38,7 @@ const bocchi = {
 
 ---
 
-## `~ tech.stack`
+## `Tech Stack`
 
 <div align="center">
 
@@ -63,7 +63,7 @@ const bocchi = {
 
 ---
 
-## `~ stats`
+## `Stats`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bocchi277&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&icon_color=a29bfe&text_color=ffffff&rank_icon=github" width="49%"/>
@@ -78,7 +78,7 @@ const bocchi = {
 
 ---
 
-## `~ trophies`
+## `Trophies`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bocchi277&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" />
@@ -86,7 +86,7 @@ const bocchi = {
 
 ---
 
-## `~ projects`
+## `Projects`
 
 <div align="center">
 
@@ -103,7 +103,7 @@ const bocchi = {
 
 ---
 
-## `~ activity`
+## `Activity`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bocchi277&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a29bfe&line=a29bfe&point=fd79a8" width="100%"/>
@@ -111,7 +111,7 @@ const bocchi = {
 
 ---
 
-## `~ connect`
+## `Connect`
 
 <div align="center">
 
@@ -125,7 +125,7 @@ const bocchi = {
 
 <br/><br/>
 
-*"I'd rather be alone and create something beautiful than be surrounded by people who don't get it."*
+*"Despite everything, its still you."*
 
 </div>
 
