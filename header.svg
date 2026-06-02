@@ -53,5 +53,5 @@
   <rect class="underline" x="316" y="164" width="168" height="2" fill="#ccff00" rx="1"/>
 
   <!-- Meta line -->
-  <text class="meta" x="400" y="200" text-anchor="middle" fill="#eeb3ff" font-family="ui-monospace, monospace" font-size="13" letter-spacing="2">SECOND YEAR STUDENT</text>
+  <text class="meta" x="400" y="200" text-anchor="middle" fill="#efd5f6" font-family="ui-monospace, monospace" font-size="13" letter-spacing="2">SECOND YEAR STUDENT</text>
 </svg>
