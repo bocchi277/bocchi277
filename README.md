@@ -56,29 +56,6 @@ const bocchi = {
 
 ---
 
-## `Stats`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bocchi277&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&icon_color=a29bfe&text_color=ffffff&rank_icon=github" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bocchi277&theme=tokyonight&hide_border=true&background=0d1117&ring=a29bfe&fire=fd79a8&currStreakLabel=a29bfe" width="49%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocchi277&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=ffffff" width="40%"/>
-</div>
-
----
-
-## `Trophies`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bocchi277&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" />
-</div>
-
----
-
 ## `Projects`
 
 <div align="center">
