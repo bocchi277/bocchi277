@@ -12,12 +12,6 @@
 
 <!-- Bocchi GIF -->
 <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJpazQzdGp1MTd3M3J3dWcwc3NhaXU4cHI5ZzVhN2xrYnNpaDd2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t4vA8rB2oVQKK4zOn9/giphy.gif" width="180" style="border-radius: 16px;"/> -->
-
-<br/><br/>
-
-<!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=bocchi277&color=a29bfe&style=flat-square&label=profile+views" />
-
 </div>
 
 ---
