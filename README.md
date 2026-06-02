@@ -72,13 +72,9 @@ const bocchi = {
 </div>
 
 ---
-
-## `Activity`
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bocchi277&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a29bfe&line=a29bfe&point=fd79a8" width="100%"/>
+  <img src="gh-stats.svg"/>
 </div>
-
 ---
 
 ## `Connect`
