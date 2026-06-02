@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
   <style>
-    .name { animation: nameIn 12s ease-out infinite; }
-    .underline { animation: underlineDraw 12s ease-out infinite; transform-origin: left center; }
-    .meta { animation: fadeUp 12s ease-out infinite; animation-delay: 0.3s; }
-    .corner { animation: cornerSlide 12s ease-out infinite; }
+    .name { animation: nameIn 9s ease-out infinite; }
+    .underline { animation: underlineDraw 9s ease-out infinite; transform-origin: left center; }
+    .meta { animation: fadeUp 9s ease-out infinite; animation-delay: 0.3s; }
+    .corner { animation: cornerSlide 9s ease-out infinite; }
 
     @keyframes nameIn {
       0%, 4% { opacity: 0; transform: translateY(8px); }
@@ -28,30 +28,30 @@
   </style>
   <defs>
     <linearGradient id="hdr-bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#121212"/>
-      <stop offset="100%" stop-color="#121212" stop-opacity="0.85"/>
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.85"/>
     </linearGradient>
   </defs>
   <rect width="100%" height="100%" fill="url(#hdr-bg)" rx="14" ry="14"/>
 
   <!-- Corner decorations: outer <g> = position, inner <g> = animation -->
   <g class="corner" opacity="0.6">
-    <rect x="40" y="42" width="22" height="2" fill="#7400b3" />
-    <rect x="40" y="42" width="2" height="22" fill="#7400b3" />
+    <rect x="40" y="42" width="22" height="2" fill="#ccff00" />
+    <rect x="40" y="42" width="2" height="22" fill="#ccff00" />
   </g>
   <g transform="translate(800 0) scale(-1 1)">
     <g class="corner" opacity="0.6">
-      <rect x="40" y="42" width="22" height="2" fill="#7400b3" />
-      <rect x="40" y="42" width="2" height="22" fill="#7400b3" />
+      <rect x="40" y="42" width="22" height="2" fill="#ccff00" />
+      <rect x="40" y="42" width="2" height="22" fill="#ccff00" />
     </g>
   </g>
 
   <!-- Name -->
-  <text class="name" x="400" y="138" text-anchor="middle" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="56" font-weight="700" letter-spacing="-1.5">Bocchi</text>
+  <text class="name" x="400" y="138" text-anchor="middle" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="56" font-weight="700" letter-spacing="-1.5">Bochhi</text>
 
   <!-- Accent underline -->
-  <rect class="underline" x="316" y="164" width="168" height="2" fill="#7400b3" rx="1"/>
+  <rect class="underline" x="316" y="164" width="168" height="2" fill="#ccff00" rx="1"/>
 
   <!-- Meta line -->
-  <text class="meta" x="400" y="200" text-anchor="middle" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="13" letter-spacing="2">SECOND YEAR STUDENT   ·   WEB DEV   ·   UTTARAKHAND</text>
+  <text class="meta" x="400" y="200" text-anchor="middle" fill="#eeb3ff" font-family="ui-monospace, monospace" font-size="13" letter-spacing="2">SECOND YEAR STUDENT</text>
 </svg>
