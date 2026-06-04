@@ -16,7 +16,7 @@
 
 ---
 
-## `About`
+## About
 
 ```ts
 const bocchi = {
@@ -31,7 +31,7 @@ const bocchi = {
 
 ---
 
-## `Tech Stack`
+## Tech Stack
 
 <div align="center">
 
@@ -74,6 +74,7 @@ const bocchi = {
 <a href="mailto:astra277353@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<br/>
 *"Despite everything, its still you."*
 
 </div>
