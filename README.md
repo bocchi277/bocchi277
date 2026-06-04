@@ -67,8 +67,6 @@ const bocchi = {
 
 </div> -->
 <div align="center">
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/saurabh-bisht-313301316/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -76,9 +74,6 @@ const bocchi = {
 <a href="mailto:astra277353@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
-
 *"Despite everything, its still you."*
 
 </div>
