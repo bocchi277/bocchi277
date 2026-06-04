@@ -23,9 +23,9 @@ const bocchi = {
   name     : "Saurabh Bisht",
   alias    : "bocchi277",
   year     : "2nd Year @ Sitare University",
-  focus    : ["Web Development", "UI/UX Design"],
-  learning : ["Flask", "MongoDB", "Three.js"],
-  vibe     : "quiet soul • solitude"
+  focus    : ["Web Development", "UI Design"],
+  learning : ["Three.js"],
+  status     : "Alive"
 };
 ```
 
@@ -58,7 +58,7 @@ const bocchi = {
 
 ## `Projects`
 
-<div align="center">
+<!-- <div align="center">
 
 | 🔗 Project | 📄 Description | 🏷️ Tag |
 |:-----------|:---------------|:-------|
@@ -69,13 +69,7 @@ const bocchi = {
 | [**ACM Website**](https://acm-277.netlify.app/) | Club site built during hackathon | `hackathon` |
 | [**Medicine Analyzer**](https://medicineanalyzer.netlify.app/) | College project for medicine info | `college` |
 
-</div>
-
----
-<div align="center">
-  <img src="gh-stats.svg"/>
-</div>
----
+</div> -->
 
 ## `Connect`
 
@@ -96,5 +90,3 @@ const bocchi = {
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
