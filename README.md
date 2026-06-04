@@ -56,8 +56,6 @@ const bocchi = {
 
 ---
 
-## `Projects`
-
 <!-- <div align="center">
 
 | 🔗 Project | 📄 Description | 🏷️ Tag |
@@ -70,9 +68,6 @@ const bocchi = {
 | [**Medicine Analyzer**](https://medicineanalyzer.netlify.app/) | College project for medicine info | `college` |
 
 </div> -->
-
-## `Connect`
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/saurabh-bisht-313301316/" target="_blank">
