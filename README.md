@@ -3,7 +3,7 @@
 <br/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=A29BFE&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Bocchi!;A+Self+Proclaimed+Web+Developer;I+build+things+no+one+asked+for;Code+%7C+Design+%7C+Solitude" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=E3E2E1&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Bocchi!;A+Self+Proclaimed+Web+Developer;I+build+things+no+one+asked+for;Code+%7C+Design+%7C+Solitude" alt="Typing SVG"/>
 
 <br/>
 
@@ -67,13 +67,11 @@ const bocchi = {
 <a href="https://www.linkedin.com/in/saurabh-bisht-313301316/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+<!-- &nbsp; -->
 <a href="mailto:astra277353@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <br/>
-*"Despite everything, its still you."*
-
 </div>
-
+*"Despite everything, its still you."*
 ---
