@@ -11,22 +11,6 @@
 <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJpazQzdGp1MTd3M3J3dWcwc3NhaXU4cHI5ZzVhN2xrYnNpaDd2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t4vA8rB2oVQKK4zOn9/giphy.gif" width="180" style="border-radius: 16px;"/> -->
 </div>
 
----
-
-## About
-
-```ts
-const bocchi = {
-  name     : "Saurabh Bisht",
-  alias    : "bocchi277",
-  year     : "2nd Year @ Sitare University",
-  focus    : ["Web Development", "UI Design"],
-  learning : ["Three.js"],
-  status     : "Alive"
-};
-```
-
----
 
 ## Tech Stack
 
